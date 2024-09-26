@@ -6,7 +6,7 @@
  * This program prints my name and major.
  *
  */
-*/
+
 #include <stdlib.h>
 #include <stdio.h>
 
