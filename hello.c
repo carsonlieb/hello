@@ -1,5 +1,5 @@
 /**
- * Author: Carson Liebentritt
+ * Authors: Carson Liebentritt and Immanuel Soh
  *
  * Date: 2024-09-26
  *
