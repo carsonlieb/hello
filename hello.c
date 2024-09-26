@@ -1,3 +1,12 @@
+/**
+ * Author: Carson Liebentritt
+ *
+ * Date: 2024-09-26
+ *
+ * This program prints my name and major.
+ * 
+ */
+*/
 #include <stdlib.h>
 #include <stdio.h>
 
